@@ -385,7 +385,7 @@ Suggested BibTeX entry:
 .. code-block:: bibtex
 
    @software{makarov_gtfs_daytype_2026,
-     author = {Makarov, E.},
+     author = {Makarov, Evgeny},
      title = {gtfs-daytype: GTFS-Based Transit DayType Extraction and Schedule Similarity},
      year = {2026},
      version = {0.1.0},
@@ -394,3 +394,9 @@ Suggested BibTeX entry:
 
 When citing the methodology rather than only the implementation, cite both this
 software package and the associated paper once the paper citation is available.
+
+Credits
+-------
+
+The initial idea for the package and its use as a compact GTFS DayType
+extraction tool was contributed by Georgy Taubkin.

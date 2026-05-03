@@ -6,7 +6,7 @@ readme = "README.rst"
 requires-python = ">=3.11"
 license = { text = "MIT" }
 authors = [
-  { name = "E. Makarov" }
+  { name = "Evgeny Makarov" }
 ]
 keywords = ["GTFS", "public transit", "daytype", "timetable", "schedule similarity"]
 classifiers = [
