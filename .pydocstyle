@@ -1,0 +1,6 @@
+[pydocstyle]
+inherit = false
+select = D100, D101, D102, D103, D104, D107
+match = (?!manage)(?!\d{4}_).*\.py
+match-dir = (?!migrations)(?!proto).*
+

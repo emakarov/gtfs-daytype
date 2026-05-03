@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use gtfs-daytype in academic work, please cite it using this metadata."
+title: "gtfs-daytype: GTFS-Based Transit DayType Extraction and Schedule Similarity"
+version: 0.1.0
+date-released: 2026-05-03
+authors:
+  - family-names: Makarov
+    given-names: E.
+repository-code: "https://github.com/emakarov/gtfs-daytype"
+url: "https://github.com/emakarov/gtfs-daytype"
+keywords:
+  - GTFS
+  - public transit
+  - DayType
+  - schedule similarity
+  - route patterns
+license: MIT
