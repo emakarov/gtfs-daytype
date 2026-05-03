@@ -398,5 +398,5 @@ software package and the associated paper once the paper citation is available.
 Credits
 -------
 
-The initial idea for the package and its use as a compact GTFS DayType
-extraction tool was contributed by Georgy Taubkin.
+The initial idea for using DayTypes as recurring public-transit schedule
+classes was contributed by Georgy Taubkin.
